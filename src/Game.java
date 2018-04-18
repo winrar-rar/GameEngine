@@ -21,7 +21,7 @@ public class Game{
 	private Goal goal;
 	
 	public final static int RES_SPRITE_SIZE = 16; 
-	public static final Engine engine = new Engine(); //To us this is the most convenient way.
+	public static final Engine engine = new Engine(); //This is the most convenient way.
 	
 	
 	/**
